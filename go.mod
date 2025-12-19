@@ -1,6 +1,6 @@
 module github.com/openyurtio/openyurt
 
-go 1.24.1
+go 1.23.0
 
 require (
 	github.com/aliyun/alibaba-cloud-sdk-go v1.62.156
